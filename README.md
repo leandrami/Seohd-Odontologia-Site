@@ -9,7 +9,7 @@ http://seohdodontologia.com.br/
 
 # 📸 Preview do projeto
 
-![Preview do site](mockup-site.png)
+![Preview do site](mockup-site.jpeg)
 
 > Interface institucional com foco em clareza, confiança e organização das informações.
 
