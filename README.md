@@ -56,7 +56,7 @@ O projeto também buscou manter **consistência visual e acessibilidade básica*
 ---
 
 # 📂 Estrutura do projeto
-seohd-odontologia-website
+seohd-odontologia-site
 
 - index.html
 - all.css
